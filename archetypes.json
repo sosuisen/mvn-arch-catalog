@@ -1,0 +1,14 @@
+[
+  {
+    "name": "JavaFX 25 (JDK 25, FXML)",
+    "groupId": "io.github.sosuisen",
+    "artifactId": "jfx-sss-fxml",
+    "version": "1.2.0"
+  },
+  {
+    "name": "JavaFX 23 (JDK21, FXML)",
+    "groupId": "io.github.sosuisen",
+    "artifactId": "jfx-sss-fxml",
+    "version": "1.1.3"
+  }
+]
