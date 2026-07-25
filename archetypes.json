@@ -9,7 +9,7 @@
     "name": "JavaFX 25 (JDK 25, MVC with FXML)",
     "groupId": "io.github.sosuisen",
     "artifactId": "jfx-sss-fxml-mvc",
-    "version": "2.6.1"
+    "version": "2.6.2"
   },
   {
     "name": "JavaFX 23 (JDK21, FXML)",
